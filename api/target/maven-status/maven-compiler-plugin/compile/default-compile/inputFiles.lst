@@ -1,0 +1,6 @@
+/home/denis/IdeaProjects/openmrs-dev/openmrs-dev/basicexample/api/src/main/java/org/openmrs/module/basicexample/BasicExampleActivator.java
+/home/denis/IdeaProjects/openmrs-dev/openmrs-dev/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/impl/BasicExampleServiceImpl.java
+/home/denis/IdeaProjects/openmrs-dev/openmrs-dev/basicexample/api/src/main/java/org/openmrs/module/basicexample/BasicExample.java
+/home/denis/IdeaProjects/openmrs-dev/openmrs-dev/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/db/BasicExampleDAO.java
+/home/denis/IdeaProjects/openmrs-dev/openmrs-dev/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/BasicExampleService.java
+/home/denis/IdeaProjects/openmrs-dev/openmrs-dev/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/db/hibernate/HibernateBasicExampleDAO.java

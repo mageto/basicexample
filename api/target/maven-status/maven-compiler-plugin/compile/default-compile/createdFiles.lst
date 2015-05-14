@@ -1,0 +1,6 @@
+org/openmrs/module/basicexample/api/db/hibernate/HibernateBasicExampleDAO.class
+org/openmrs/module/basicexample/BasicExample.class
+org/openmrs/module/basicexample/api/db/BasicExampleDAO.class
+org/openmrs/module/basicexample/api/impl/BasicExampleServiceImpl.class
+org/openmrs/module/basicexample/BasicExampleActivator.class
+org/openmrs/module/basicexample/api/BasicExampleService.class
