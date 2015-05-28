@@ -1,12 +1,10 @@
 <%@ include file="/WEB-INF/template/include.jsp"%>
 <%@ include file="/WEB-INF/template/header.jsp"%>
 <%@ include file="template/localHeader.jsp"%>
-<html  data-ng-app="app">
-    <head>
-        <title>Mageto</title>
-        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-        <openmrs:htmlInclude file="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"/>
-    </head>
+<head>
+    <title>Mageto</title>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+</head>
 <body>
 <div style="margin: 50px;" class="grid-wrapper">
     <div class="pure-g" style="margin: auto;
@@ -67,7 +65,6 @@
             </div>
         </div>
         <div class="pure-u-1-2">
-
             <div class="grid-content">
                 <table style="margin-right: 13px;margin-top: 10px;" class="pure-table pure-table-bordered">
                     <thead>
@@ -103,7 +100,5 @@
         <%@ include file="/WEB-INF/template/footer.jsp"%>
     </div>
 </div>
-
 </body>
-</html>
 

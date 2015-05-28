@@ -2,7 +2,6 @@
 <%@ include file="/WEB-INF/template/header.jsp"%>
 <%@ include file="template/localHeader.jsp"%>
 
-<openmrs:htmlInclude file="/moduleResources/patientdetails/js/jquery.dataTables.js" />
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
 
 <table class="pure-table pure-table-bordered">

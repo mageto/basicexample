@@ -14,5 +14,6 @@
 	<!-- Add further links here -->
 </ul>
 <h2>
-	<spring:message code="basicexample.title" />
+	<%--<spring:message code="basicexample.title" />--%>
+	Patient Details
 </h2>
